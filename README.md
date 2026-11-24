@@ -10,37 +10,72 @@ To create a 3D model from given orthographic projection.
 3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
-## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
+## PROOpen Autodesk Fusion 360 software.
+
+
+
+Click on File → New Design.
+
+
+
+Select the XY Plane and create a new sketch.
 
 ![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+
+Use the Rectangle tool to draw the base shape.
+
+
+
+
+Apply the required dimensions using the Sketch Dimension tool.
+
 
 ![image](https://user-images.githubusercontent.com/113594316/198551220-c7aa6694-4427-48e2-9d91-cd7e9615d651.png)
 
-5.	Use inspect feature to measure the dimensions of sketch.
+Click Finish Sketch.
 
+
+
+Use the Extrude command to give thickness to the model.
 ![image](https://user-images.githubusercontent.com/113594316/198551270-45875855-43a7-4471-af35-bd10cd9dd153.png)
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+
+Create another sketch on the required face.
+
+
+
+Draw the required circular holes using the Circle tool.
 
 ![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
 
-7.	Use extrude option to convert 3D model from sketch
+Use Extrude → Cut to create the holes.
 
-![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
 
-8.	After finishing the model convert to drawing sheet per  ISO standard.
 
-![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
+Create the cylindrical portion using the Circle tool and Extrude command.
+
+![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
+
+
+Apply the required cuts and modifications to get the final shape.
+
+
+
+Check the model in 3D Isometric View.
+
+
+
+Save the design.E:
+
+
+
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+<img width="755" height="527" alt="image" src="https://github.com/user-attachments/assets/9776dba3-1096-4dc0-a229-515e1205db81" />
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
